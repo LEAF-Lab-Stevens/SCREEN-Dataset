@@ -33,11 +33,14 @@ The corpus exhibits a pronounced negativity bias (66.8% negative), with framing 
 
 ## Repository structure
 
+```
 SCREEN-Dataset/
 ├── Dataset/        # The SCREEN corpus and intermediate annotation files
 ├── Notebooks/      # Jupyter notebooks for the annotation pipeline and experiments
+├── Images/         # Pipeline and confusion-matrix figures used in the paper
 ├── LICENSE         # MIT License
 └── README.md
+```
 
 ## Annotation pipeline
 
